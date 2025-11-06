@@ -1,0 +1,16 @@
+com\atithinivas\reviewservice\dto\ReviewRequestDto$ReviewRequestDtoBuilder.class
+com\atithinivas\reviewservice\entity\ReviewEntity.class
+com\atithinivas\reviewservice\dto\ReviewResponseDto$ReviewResponseDtoBuilder.class
+com\atithinivas\reviewservice\service\ReviewNotFoundException.class
+com\atithinivas\reviewservice\controller\ReviewController.class
+com\atithinivas\reviewservice\entity\ReviewEntity$ReviewEntityBuilder.class
+com\atithinivas\reviewservice\repository\ReviewRepository.class
+com\atithinivas\reviewservice\service\ReviewServiceImpl.class
+com\atithinivas\reviewservice\dto\ManagerResponseDto$ManagerResponseDtoBuilder.class
+com\atithinivas\reviewservice\dto\ReviewResponseDto.class
+com\atithinivas\reviewservice\dto\ReviewUpdateDto.class
+com\atithinivas\reviewservice\util\IdUtil.class
+com\atithinivas\reviewservice\ReviewserviceApplication.class
+com\atithinivas\reviewservice\service\ReviewService.class
+com\atithinivas\reviewservice\dto\ManagerResponseDto.class
+com\atithinivas\reviewservice\dto\ReviewRequestDto.class
